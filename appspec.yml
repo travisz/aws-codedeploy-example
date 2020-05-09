@@ -1,5 +1,5 @@
 version: 0.0
-os: liunx
+os: linux
 files:
   - source: /html
     destination: /var/www/html
