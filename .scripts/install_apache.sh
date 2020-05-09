@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo yum -y install httpd24
+sudo yum -y install httpd
